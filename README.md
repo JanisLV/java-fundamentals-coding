@@ -12,6 +12,12 @@ First try your hand with the following exercises: [Java Fundamentals Exercises](
 
 Once you've solved them yourself check your solution against the solutions presented in the code above.
 
+## Materials for Individual Workshop
+
+We prepared exercises in IntelliJ with Edu Tool. 
+
+Here you can download exercises [link](https://homeworks.java.en.sdacademy.pro/)
+
 ## Basics
 1. Use System.out.print method to print the same statement in separate lines.
 ```
