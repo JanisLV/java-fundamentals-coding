@@ -16,7 +16,7 @@ Once you've solved them yourself check your solution against the solutions prese
 
 We prepared exercises in IntelliJ with Edu Tool. 
 
-Here you can download exercises [link](https://homeworks.java.en.sdacademy.pro/)
+Here you can download exercises under this [link.](https://homeworks.java.en.sdacademy.pro/)
 
 ## Basics
 1. Use System.out.print method to print the same statement in separate lines.
